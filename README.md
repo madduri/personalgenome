@@ -4,7 +4,7 @@ Empowering individuals to analyze their personal genomics data using publicly av
 
 # Who? 
 
-For individuals who have used personal genomics services to sequence/genotype their genome and would like to get benefitted from the latest research findings in the space
+For individuals who have used personal genomics services to sequence/genotype their genome and would like to paricipate and contribute to latest research findings in this space.
 
 # Why?
 
