@@ -1,6 +1,6 @@
 # personalgenome
 
-Empowering individuals to analyze their personal genomics data using publicly available tools. 
+Empowering individuals to analyze their personal genomics data using publicly available tools and participate in research of personalized medicine. 
 
 # Who? 
 
